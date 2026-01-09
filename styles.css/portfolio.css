@@ -51,3 +51,23 @@ nav .menu a{
     text-decoration: none;
     color: #474747;
 }
+/* #banner { */
+    /* border: 1px solid red; */
+    margin: 47px 38px 0 230px;
+    /* display: flex; */
+    align-items: center;
+    justify-content: space-between;
+}
+/* #banner .banner-content{ */
+    font-size: 45px;
+    font-weight: 600;
+    color: #474747;
+    margin-bottom: 4px;
+}
+#banner .banner-content h1{
+
+}
+#banner .banner-content h2{
+
+}
+#banner .banner-content p{}
